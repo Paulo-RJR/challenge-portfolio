@@ -11,9 +11,9 @@ Oracle Next Education é um programa de educação e empregabilidade com objetiv
 
 Alura é parte de um grupo de empresas que acredita no poder da educação e da tecnologia para transformar as pessoas e suas carreiras (mais sobre a plataforma: https://www.alura.com.br/sobre).
 
-## Desafio 3 - Potfólio: 
+## Desafio 3 - Portfólio: 
 
-Desenvolva um site contendo informações para elaborar o seu portifólio utilizando o HTML5, CSS3 e Javascript, o qual deverá atender aos seguintes requisitos:
+Desenvolva um site contendo informações para elaborar o seu portfólio utilizando o HTML5, CSS3 e Javascript, o qual deverá atender aos seguintes requisitos:
 
 ## Requisitos:
 
@@ -60,7 +60,7 @@ Icones adicionados em Habilidades e Interesses: https://icons8.com.br/icons/set/
 
 Escolha das cores do site: https://www.homehost.com.br/blog/tutoriais/tabela-de-cores-html/ .<p>
 
-Com intuito de demonstrar minha evolução no curso e para boas práticas, no site apliquei as duas metodologias citadas no curso, que são a metodologia BEM e a Atomic Designer além de iniciar a parte de acessibilidade do site (o qual ainda esta em construção).<p>
+Com intuito de demonstrar minha evolução no curso e para boas práticas, no site apliquei as duas metodologias citadas no curso, que são a metodologia <strong>BEM</strong> e a <strong>Atomic Designer</strong> além de iniciar a parte de acessibilidade do site (o qual ainda esta em construção).<p>
 
 <strong>Obs.:</strong> Para utilização dos itens criados pela Alura nos sites Figma e Trello é necessária criar uma conta nestes sites.<br>
 
