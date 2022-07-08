@@ -1,0 +1,7 @@
+.formulario__div{
+    color: var(--cor-de-fundo);    
+    display: flex;
+    width: calc(100% - 9.5rem); /*  152px */
+    padding-top: 128px;
+    padding-bottom: 4rem; /* 64px */
+}

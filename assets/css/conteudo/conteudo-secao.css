@@ -1,0 +1,5 @@
+.conteudo__secao{    
+    display: flex;   
+    flex-direction: row-reverse;   
+    margin: 0 9.5rem;   /* 152px */ 
+}

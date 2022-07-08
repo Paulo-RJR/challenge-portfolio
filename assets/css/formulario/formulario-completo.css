@@ -1,0 +1,4 @@
+.formulario__completo{
+    display: flex;
+    flex-direction: column;
+}

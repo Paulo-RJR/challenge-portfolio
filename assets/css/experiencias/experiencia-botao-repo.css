@@ -1,0 +1,18 @@
+.experiencia__botao--repo{
+    background-color: var(--cor-de-fundo);
+    border: .2rem solid var(--cor-da-fonte); /* 3.2px */
+    border-radius: .625rem; /* 10px */  
+    color: var(--cor-da-fonte);
+    font-family: var(--tipo-de-fonte); 
+    font-weight: 400;
+    height: 3.125rem; /* 50px */
+    margin-right: 1rem; /* 16px */
+    text-align: center;
+    width: 7.1875rem; /* 115px */         
+}
+
+.experiencia__botao--repo:hover{
+    background-color: var(--cor-da-fonte);
+    color: var(--cor-de-fundo);
+    cursor: pointer;
+}

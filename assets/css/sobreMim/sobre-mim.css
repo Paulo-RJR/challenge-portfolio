@@ -1,0 +1,4 @@
+.sobre-mim{
+    background-color: var(--cor-da-fonte);
+    border-bottom: .3rem solid var(--cor-da-borda); /* 4.8px */
+}

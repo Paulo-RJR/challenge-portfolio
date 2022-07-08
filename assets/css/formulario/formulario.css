@@ -1,0 +1,86 @@
+.formulario{    
+    background-color: var(--cor-da-fonte);
+    border-bottom: .3rem solid var(--cor-da-borda); /* 4.8px */  
+    display: flex;
+    justify-content: flex-end;  
+}
+
+/* Novo CSS para validação do formulario seguindo vídeo do YouTube */
+.form {
+    padding: 0 0 1.875rem; /* 30px */
+}
+
+.form-control {
+    margin-bottom: .625rem; /* 10px */
+    padding-bottom: 1.25rem; /* 20px */
+    position: relative;
+}
+
+.form-control input {
+    border: .2rem solid var(--cor-do-texto-formulario); /* 3.2px */
+    border-radius: .3125rem; /* 5px */
+    display: block;
+    font-family: var(--tipo-de-fonte);
+    font-size:.875rem; /* 14px */
+    outline: 0;
+    padding:.9375rem; /* 15px */
+    width: 100%;
+}
+
+.form-control textarea {
+    border: .2rem solid var(--cor-do-texto-formulario); /* 3.2px */
+    border-radius: .3125rem; /* 5px */
+    display: block;
+    font-family: var(--tipo-de-fonte);
+    font-size: .875rem; /* 14px */
+    outline: 0;
+    padding: .9375rem; /* 15px */
+    width: 100%;
+}
+
+.form-control.error input {
+    border: .2rem solid var(--cor-da-borda); /* 3.2px */
+    font-family: var(--tipo-de-fonte);
+}
+
+.form-control.success input {
+    border: .2rem solid var(--cor-de-borda-correta); /* 3.2px */
+}
+
+.form-control.error textarea{
+    border: .2rem solid var(--cor-da-borda); /* 3.2px */
+    font-family: var(--tipo-de-fonte);
+}
+
+.form-control.success textarea {
+    border: .2rem solid var(--cor-de-borda-correta); /* 3.2px */
+}
+
+.form-control i {
+    position: absolute;  
+    top: 17px;
+    visibility: hidden;
+}
+
+.form-control.error i.img-error {
+    left: 38.125rem; /* 610px */    
+    visibility: visible;
+}
+
+.form-control.success i.img-success {
+    left: 38.125rem; /* 610px */   
+    visibility: visible;
+}
+
+.form-control small {
+    font-size: .875rem; /* 14px */
+    margin-top: .3125rem; /* 5px */
+    position: absolute;
+    visibility: hidden;
+}
+
+.form-control.error small{
+    color: var(--cor-de-formulario-errado);
+    font-family: var(--tipo-de-fonte);
+    visibility: visible;
+}

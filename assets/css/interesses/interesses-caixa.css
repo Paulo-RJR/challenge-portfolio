@@ -1,0 +1,18 @@
+.interesses__caixa{          
+    background: var(--cor-da-fonte-2);
+    border: .5rem solid var(--cor-do-botao-clicado2);
+    border-radius: 1rem; /* 16px */
+    color: var(--cor-da-borda);
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    height: 10rem; /* 160px */
+    justify-content: flex-end;
+    /*margin: 1.4375rem 0.9375rem 1.4375rem 0.5rem;  /* 23px 15px 23px 8px */
+    padding: 1rem; /* 16px */
+    width: 9.375rem; /* 150px */    
+}
+
+.interesses__caixa:hover{
+    background: var(--cor-do-botao-clicado2);    
+}

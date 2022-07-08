@@ -1,0 +1,7 @@
+.formacao__titulo{
+    color: var(--cor-de-fundo);
+    font-size: 2rem; /* 32px */
+    font-weight: 700;
+    padding: 5rem 0 2rem 0; /* 80px 32px */
+    text-align: center;
+}

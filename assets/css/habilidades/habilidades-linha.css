@@ -1,0 +1,7 @@
+.habilidades__linha{
+    align-items: center;    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;   
+    width: calc(100% - 8.5rem); /* 136px */
+}

@@ -1,0 +1,5 @@
+.conteudo__rede__lista{
+    color: var(--cor-da-fonte);
+    align-items: center;
+    display: flex; 
+}

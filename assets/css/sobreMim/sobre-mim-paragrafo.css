@@ -1,0 +1,8 @@
+.sobre-mim__paragrafo{ 
+    color: var(--cor-de-fundo);
+    padding-top: 1rem; /* 16px */
+}
+
+.sobre-mim__paragrafo:nth-child(4){    
+    padding-bottom: 8.25rem; /* 132px - Porque não coloquei a minha assinatura (16px + 52px + 64px). */    
+}

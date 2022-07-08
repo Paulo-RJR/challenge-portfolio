@@ -1,0 +1,6 @@
+.formacao__cursos__item:nth-child(1){ 
+    border: .5rem solid var(--cor-do-botao-clicado2); 
+    border-radius: 1.5rem; /* 24px */  
+    background: var(--cor-da-fonte-2);    
+    padding: 5.5rem; /* 88px */
+}

@@ -1,0 +1,5 @@
+.formacao__cursos__lista{    
+    color: var(--cor-de-fundo);     
+    text-align: left;
+    padding-left: 2rem; /* 32px*/
+}

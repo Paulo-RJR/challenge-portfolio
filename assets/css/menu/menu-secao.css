@@ -1,0 +1,5 @@
+.menu__secao{       
+    align-items: center;
+    display: flex;   
+    margin: 0 9.5rem; /* 152px */       
+}

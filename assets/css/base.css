@@ -1,0 +1,76 @@
+/* Já deixaremos o básico de reset de estilos. Caso queira adicionar mais informações
+coloque nas sessões indicadas */
+:root{
+    /* Insira a variavel das outras cores inspecionando o modelo do figma */
+    /* Se esforce para trabalhar com variáveis, é uma dica profissional valiosa */    
+    --cor-da-borda:#FF0000;
+    --cor-da-fonte: #000000;
+    --cor-da-fonte-2: #FFFFFF;
+    --cor-de-borda-correta: #4ECA64;
+    --cor-de-formulario-correto: #4ECA64;
+    --cor-de-formulario-errado: #DB5A5A;
+    --cor-de-fundo: #F0E68C;
+    --cor-de-fundo-2: #EAF2FD;
+    --cor-do-botao-clicado1: #778899;
+    --cor-do-botao-clicado2: #CD5C5C;    
+    --cor-do-texto-formulario:#A2A2A2;    
+    --tipo-de-fonte: 'Raleway', cursive;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: var(--cor-de-fundo) ;
+    font-family: var(--tipo-de-fonte);
+    line-height: 1;     
+      
+}
+
+ol, ul, li{
+    list-style: none;
+}
+
+a{
+    color: var(--cor-da-fonte);
+    text-decoration: none;
+}
+
+/* Chegou a hora de se desafiar com a responsividade, 
+utilize como referência os breakpoints @media abaixo. */
+
+/* Tablet */
+@media (min-width: 768px) {
+
+/* Menu */
+
+/* title */
+
+/* Habilidades */
+
+/* Interesses */
+
+/* Formação Acadêmica */
+
+/* Expeirência profissional */
+}
+
+/* Mobile */
+@media (min-width: 425px) {
+
+/* Menu */
+
+/* Titulo */
+
+/* Sessão sobre */
+
+/* Habilidades */
+
+/* Interesses */
+ 
+/* Formação Acadêmica */
+
+/* Experiência Profissional */
+
+ /* Contato */
+
+/* Footer */
+}

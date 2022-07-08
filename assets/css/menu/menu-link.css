@@ -1,0 +1,7 @@
+.menu__link{
+    color:  var(--cor-de-fundo); 
+}
+
+.menu__link:hover{
+    border-bottom: .2rem solid var(--cor-da-borda); /* 3.2px */
+}

@@ -1,0 +1,6 @@
+.experiencia__moedas{     
+    display: flex;
+    flex-direction: row-reverse;    
+    justify-content:flex-end;
+    padding-bottom: 3.3125rem; /* 53px */;    
+}

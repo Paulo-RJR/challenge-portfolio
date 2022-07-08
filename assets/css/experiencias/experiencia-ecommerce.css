@@ -1,0 +1,5 @@
+.experiencia__ecommerce{     
+    display: flex;    
+    justify-content:flex-start;
+    padding-bottom: 2rem; /* 32px */;    
+}
