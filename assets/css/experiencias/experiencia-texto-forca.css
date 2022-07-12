@@ -1,6 +1,5 @@
 .experiencia__texto__forca{
     font-size: 1rem; /* 16px */  
-    font-weight: 500;
-    margin: 0;
-    padding-bottom: .5rem;
+    font-weight: 500;   
+    padding-bottom: .5rem; /* 8px */  
 }

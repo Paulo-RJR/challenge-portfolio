@@ -1,7 +1,6 @@
 .experiencia__subtitulo__moedas{
-    width: 348px;
+    width: 21.75rem; /* 348px */
     font-size: 1.375rem; /* 22px */
-    font-weight: 700;
-    margin: 0;
-    padding-bottom: .5rem;
+    font-weight: 700;    
+    padding-bottom: .5rem; /* 8px */
 }

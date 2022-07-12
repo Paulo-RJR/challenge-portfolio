@@ -1,6 +1,6 @@
 .menu{
     background-color: var(--cor-da-fonte);
-    border-bottom: .3rem solid var(--cor-da-borda); /* 4,8px */
-    padding-top: 2.1562rem; /* 34,4992px */
+    border-bottom: .3rem solid var(--cor-da-borda); /* 4.8px */
+    padding-top: 2.1562rem; /* 34.4992px */
     padding-bottom: 2rem; /* 32px */
 }

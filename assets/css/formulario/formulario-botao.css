@@ -1,7 +1,7 @@
 .form button {
     background-color: var(--cor-da-fonte);
     border: .2rem solid var(--cor-da-borda); /* 3.2px */
-    border-radius: .8rem; /* 12.8rem */
+    border-radius: .8rem; /* 12.8px */
     color: var(--cor-da-borda);
     text-align: center;
     height: 3.125rem; /* 50px */

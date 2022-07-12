@@ -7,8 +7,7 @@
     display: flex;
     flex-direction: column;
     height: 10rem; /* 160px */
-    justify-content: flex-end;
-    /*margin: 1.4375rem 0.9375rem 1.4375rem 0.5rem;  /* 23px 15px 23px 8px */
+    justify-content: flex-end;   
     padding: 1rem; /* 16px */
     width: 9.375rem; /* 150px */   
 }

@@ -58,7 +58,7 @@
 
 .form-control i {
     position: absolute;  
-    top: 17px;
+    top: 1.0625rem; /* 17px */
     visibility: hidden;
 }
 
